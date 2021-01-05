@@ -1,2 +1,3 @@
-# Genius_Bot-Docs
-The documentation for the Discord bot Genius-Bot. This is also another place where you can report bugs and leave suggestions.
+# Genius-Bot's Documentation
+### Check DOCS.md for documentation
+### Report an issue or suggest a feature
