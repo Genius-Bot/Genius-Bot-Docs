@@ -1,3 +1,3 @@
 # Genius-Bot's Documentation
-### Check DOCS.md for documentation
+### Check the WIKI for documentation
 ### Report an issue or suggest a feature
