@@ -1,3 +1,3 @@
 # Genius-Bot's Documentation
-### Check the WIKI for documentation
+### Check the wiki for documentation
 ### Report an issue or suggest a feature
